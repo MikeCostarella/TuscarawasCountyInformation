@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "County-hosted (custom)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Tuscarawas County (Official Site)", category: "Government", subcategory: "County", url: "https://www.co.tuscarawas.oh.us/", description: "Official Tuscarawas County government website — offices, departments, and services." },
